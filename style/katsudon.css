@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(204, 119, 34);
+}
+#katsudon {
+    color: blue;
+    border: 3px solid;
+    text-align: center;
+}
+.steps .uno {
+    color: aqua;
+    background-color: blueviolet;
+    text-align: justify;
+    
+}
