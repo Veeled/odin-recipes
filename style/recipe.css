@@ -1,0 +1,19 @@
+body, 
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(204, 119, 34);
+}
+.title {
+    color: rgb(0, 0, 54.5);
+    text-align: center;
+    border: 3px solid;
+}
+.imgc {
+    height: auto;
+    width: 400px;
+    margin: auto;
+}
+.linkI, 
+.linkII {
+    font-size: 22px;
+}
