@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(204, 119, 34);
+}
+.kath {
+    height: 400px;
+    width: 500px;
+    margin: auto;
+    margin-left: 125px;
+}
+#pbake {
+    color: green;
+    text-align: center;
+    border: pink dotted;
+}
+.pingredients, 
+.styleing {
+    color: aqua;
+    background-color: blueviolet;
+    text-align: justify;   
+}
